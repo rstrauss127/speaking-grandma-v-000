@@ -2,7 +2,7 @@
 def speak_to_grandma(phrase)
   capitalize = phrase.upcase
   if phrase == "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU TOO PUMPKIN"
+    return "I LOVE YOU TOO PUMPKIN!"
   end
   if phrase == capitalize
     return "NO, NOT SINCE 1938!" 
